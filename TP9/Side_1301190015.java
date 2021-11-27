@@ -25,9 +25,9 @@ public class Side_1301190015<T,U> {
         return right_1301190015;
     }
     public void info_1301190015(){
-        System.out.println("tipe left\t: class "+left_1301190015.getClass().getName());
+        System.out.println("tipe left\t: "+left_1301190015.getClass());
         System.out.println("nilai left\t: "+getLeft_1301190015());
-        System.out.println("tipe right\t: class "+right_1301190015.getClass().getName());
+        System.out.println("tipe right\t: "+right_1301190015.getClass());
         System.out.println("nilai right\t: "+getRight_1301190015());
     }
 }
